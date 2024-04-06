@@ -1,8 +1,6 @@
 # Halo Guys!
 
-Perkenalkan nama saya **Muhammad Rifki**.\
-Saya merupakan lulusan **Bangkit Academy** 2023 Batch 2 pada Mobile Development learning path.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-rifki-kalsel/)ku ya.
+Let's connect [Linkedin](https://www.linkedin.com/in/muhammad-rifki-kalsel/).
 
 <p align="left">
 <a href="https://github.com/mrmuhammadrifki">
