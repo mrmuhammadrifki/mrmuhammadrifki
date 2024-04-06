@@ -1,6 +1,6 @@
 # Halo Guys!
 
-Let's connect [Linkedin](https://www.linkedin.com/in/muhammad-rifki-kalsel/).
+I am a student at STMIK Widya Utama Purwokerto, with a strong interest in programming, particularly in mobile application development. As the top graduate of Bangkit Academy's batch 2 in 2023, specializing in Mobile Development (Android), I have demonstrated my commitment and proficiency in this field. Being a member of the Top 10 Product Capstone Teams, which successfully secured an incubation grant from Google and the Ministry of Education and Culture (Dikti), validates my ability to design and implement innovative and impactful technological solutions.
 
 <p align="left">
 <a href="https://github.com/mrmuhammadrifki">
